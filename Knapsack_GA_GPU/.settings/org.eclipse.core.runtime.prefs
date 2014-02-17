@@ -1,0 +1,4 @@
+#Tue Feb 21 16:11:00 CET 2012
+content-types/enabled=true
+content-types/org.eclipse.cdt.core.cSource/file-extensions=cu
+eclipse.preferences.version=1
